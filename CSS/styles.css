@@ -1,0 +1,29 @@
+body{
+    background-color: #F5F7D4;
+}
+
+h1{
+    color: #0A3409;
+}
+
+h3{
+    color: #98CA32;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #559E54;
+    border-width: 5px;
+    width: 8%;
+    margin-right: 80%;
+}
+
+img{
+    height: 200px;
+    border-radius: 90px;
+}
+
+.checked {
+    color: orange;
+  }
